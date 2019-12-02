@@ -1,0 +1,11 @@
+.login, .registro {
+    border: 2px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 150px;
+    background-color: rgb(219, 219, 219);
+}
+ 
+body{
+    background-color: rgb(119, 118, 118);
+}
